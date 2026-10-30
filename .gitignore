@@ -1,0 +1,6 @@
+# Nichts außer dem Feed und dieser Seite veröffentlichen
+*
+!.gitignore
+!foerder-longlist.xml
+!index.html
+!README.md
